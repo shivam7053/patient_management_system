@@ -6,3 +6,4 @@ pytest
 pandas
 openpyxl
 pytest-cov
+gunicorn
